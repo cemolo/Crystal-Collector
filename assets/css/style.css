@@ -1,0 +1,14 @@
+body{
+	/*background-color: black !important;*/
+	color: white !important;
+	background: black !important;
+}
+.jumbotron, .panel{
+	background-color: transparent !important;
+
+}
+
+.container{
+	padding-top: 3%;
+}
+
